@@ -1,4 +1,4 @@
-#!/home/flip/project/python/Ishraq-Virtual-University/bin/python3
+#!/home/flip/project/python/Ishraq-Virtual-University/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
